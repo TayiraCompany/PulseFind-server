@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "domain": "example.com",
+    "apptitle": "Example",
+    "appdescription": "This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission. More ...",
+    "cortype": "https://",
+    "by": "unknown",
+    "icon": ""
+  },
+  {
+    "id": 2,
+    "domain": "tayria1.firebaseapp.com",
+    "apptitle": "Tayira",
+    "appdescription": "... رسم بياني Tayira. Company Owner. Tayira. يونيو ٢٠٢٣⁦ ⁩ - الحالي 1 عام واحد 1 شهر واحد. مصر الجيزة. مواقع إلكترونية. موقع الشركة الإلكتروني: https://tayria1.web.",
+    "cortype": "https://",
+    "by": "Mohammed Mostafa",
+    "icon": "https://tayria1.firebaseapp.com/public/Company/logo-black.png"
+  },
+  {
+    "id": 3,
+    "domain": "github.com",
+    "apptitle": "Github",
+    "appdescription": "GitHub is where over 100 million developers shape the future of software, together. Contribute to the open source community, manage your Git",
+    "cortype": "https://",
+    "by": "Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "id": 4,
+    "domain": "google.com",
+    "apptitle": "Google",
+    "appdescription": "جوجل أو غوغل أو قوقل ‏ هي شركة أمريكية عامة متخصصة في مجال الإعلان المرتبط بخدمات البحث على الإنترنت وإرسال رسائل بريد إلكتروني عن طريق جي ميل. واختير اسم جوجل الذي يعكس المُهمة التي تقوم بها الشركة، وهي تنظيم ذلك الكم الهائل من المعلومات المُتاحة على الويب",
+    "cortype": "https://",
+    "by": "Larry Page and Sergey Brin",
+    "icon": "https://www.google.com/favicon.ico"
+  },
+  {
+    "id": 5,
+    "domain": "xnxx.com",
+    "apptitle": "XNXX",
+    "appdescription": "XNXX delivers free sex movies and fast free porn videos (tube porn). Now 10 million+ sex vids available for free! Featuring hot pussy, sexy girls in xxx ...",
+    "cortype": "https://",
+    "by": "unknown",
+    "icon": "https://xnxx.com/favicon.ico"
+  },
+  {
+    "id": 6,
+    "domain": "xvideos.com",
+    "apptitle": "XVODEOS",
+    "appdescription": "XVIDEOS Free Porn Videos.",
+    "cortype": "https://",
+    "by": "unknown",
+    "icon": "https://xvideos.com/favicon.ico"
+  },
+  {
+    "id": 7,
+    "domain": "web.facebook.com",
+    "apptitle": "Facebook",
+    "appdescription": "https://web.facebook.com/watch/?_rdc=1&_rdr",
+    "by": "Mark Zuckerberg",
+    "cortype": "https://",
+    "icon": "https://www.google.com/s2/favicons?domain=web.facebook.com"
+  },
+{
+    "id": 8,
+    "domain": "discord.com",
+    "apptitle": "Discord",
+    "appdescription": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
+    "by": "tanislav Vishnevskiy and Jason Citron",
+    "cortype": "https://",
+    "icon": "https://www.google.com/s2/favicons?domain=discord.com"
+}
+]
